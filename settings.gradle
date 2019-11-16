@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':democart'
 rootProject.name='MVVM DemoApp'
